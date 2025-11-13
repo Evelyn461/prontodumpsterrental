@@ -1,0 +1,50 @@
+ <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">What size dumpster should I rent?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Choose a size based on your waste amount: 10-12 yards for small jobs, 15-20 yards for mid-projects, 30-40 yards for large build-outs.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What materials are prohibited?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Hazardous wastes like paint, chemicals, tires, batteries and asbestos are not accepted.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do I need a permit?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">If placing the dumpster on public property like a street, a local permit may be needed. Private driveways usually do not require one.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can the dumpster damage my property?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;"> Potentially yesdriveways and lawns may be affected. Use protective boards or choose a hard surface.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How is cost determined?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Factors include size, rental duration, debris type, and weight. Always ask for upfront all-inclusive quotes.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How long can I keep the dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;"> Typical rental periods range 7-10 days, with extensions available.</p>
+                <div class="callalooma mx-auto"><a href="tel:850-332-9639">Click Here To Call Us (850) 332-9639</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
